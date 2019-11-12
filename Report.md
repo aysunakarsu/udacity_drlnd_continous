@@ -46,7 +46,7 @@ This method uses two neural networks; actor and critic:<br>
 Critic measures the quality of the action taken based on value<br>
 Actor controls how the agent behaves based on policy<br>
 
-### Algorithm
+### Algorithm
 
 This project uses DDPG algorithm (deep deterministic policy gradient)with actor critic method. The DDPG algorithm uses two additional mechanisms: the replay buffer and the progressive updates.
 
