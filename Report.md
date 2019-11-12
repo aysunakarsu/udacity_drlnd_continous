@@ -67,4 +67,3 @@ Linear<br>
 ### Plot of rewards
 
 ![training](https://raw.githubusercontent.com/aysunakarsu/udacity_rdlnd_continous/master/ddpg_scores.png)<br>
-
