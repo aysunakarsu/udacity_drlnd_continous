@@ -93,7 +93,7 @@ In the training phase of this learning algorithm, actor critic methods are used.
 
 ### Plot of rewards
 
-![training](https://raw.githubusercontent.com/aysunakarsu/udacity_rdlnd_continous/master/ddpg_scores.png)<br>
+![training](https://raw.githubusercontent.com/aysunakarsu/udacity_rdlnd_continous/master/p2_plot_of_rewards.png)<br>
 
 ### Improvements
 
